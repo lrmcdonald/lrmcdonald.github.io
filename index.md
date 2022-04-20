@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/lrmcdonald/lrmcdonald.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Header Photo](/least-github-pages/assets/moose_cronch.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Heyo!
 
-### Markdown
+My name is Lucian R. McDonald, and I am a PhD candidate at Utah State University studying moose-vehicle collisions in Alaska.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research focuses on human-wildlife interactions and spatial ecology.
 
-```markdown
-Syntax highlighted code block
+#### Find links to my publications [here](https://scholar.google.com/citations?hl=en&user=liXgTL4AAAAJ).
 
-# Header 1
-## Header 2
-### Header 3
+#### Check out my substack [here](https://lrmcdonald.substack.com/p/coming-soon?r=1379g5&utm_campaign=post&utm_medium=web)
 
-- Bulleted
-- List
+#### Contact me [here](mailto:lucian.r.mcdonald@gmail.com).
 
-1. Numbered
-2. List
+## Book Reccomendations
 
-**Bold** and _Italic_ and `Code` text
+- [x+y by Eugenia Cheng](https://www.basicbooks.com/titles/eugenia-cheng/x-y/9781541646513/)
 
-[Link](url) and ![Image](src)
-```
+- [The Origins of Political Order by Francis Fukuyama](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [Braiding Sweetgrass by Robin Wall Kimmerer](https://milkweed.org/book/braiding-sweetgrass)
 
-### Jekyll Themes
+- [Lucille by Kathleen Brady](https://www.goodreads.com/book/show/29215876-lucille)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lrmcdonald/lrmcdonald.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Infinite Powers by Steven Strogatz](https://www.goodreads.com/book/show/40796176-infinite-powers)
