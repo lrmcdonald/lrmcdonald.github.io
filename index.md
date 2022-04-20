@@ -2,11 +2,11 @@
 
 ![Header Photo](/docs/assets/moosecronch.jpg)
 
-Heyo!
+### Heyo!
 
-My name is Lucian R. McDonald, and I am a PhD candidate at Utah State University studying moose-vehicle collisions in Alaska.
+### My name is Lucian R. McDonald, and I am a PhD candidate at Utah State University studying moose-vehicle collisions in Alaska.
 
-My research focuses on human-wildlife interactions and spatial ecology.
+### My research focuses on human-wildlife interactions and spatial ecology.
 
 #### Contact me [here](mailto:lucian.r.mcdonald@gmail.com).
 
@@ -18,7 +18,7 @@ My research focuses on human-wildlife interactions and spatial ecology.
 
 ![Lost Moose](/docs/assets/lostmoose.png)
 
-### Book Reccomendations
+#### Book Reccomendations
 
 - [x+y by Eugenia Cheng](https://www.basicbooks.com/titles/eugenia-cheng/x-y/9781541646513/)
 
