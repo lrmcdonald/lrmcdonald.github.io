@@ -8,13 +8,17 @@ My name is Lucian R. McDonald, and I am a PhD candidate at Utah State University
 
 My research focuses on human-wildlife interactions and spatial ecology.
 
-#### Find links to my publications [here](https://scholar.google.com/citations?hl=en&user=liXgTL4AAAAJ).
-
-#### Check out my substack [here](https://lrmcdonald.substack.com/p/coming-soon?r=1379g5&utm_campaign=post&utm_medium=web)
-
 #### Contact me [here](mailto:lucian.r.mcdonald@gmail.com).
 
-## Book Reccomendations
+#### Find links to my publications [here](https://scholar.google.com/citations?hl=en&user=liXgTL4AAAAJ).
+
+#### Check out my substack [here](https://lrmcdonald.substack.com/p/coming-soon?r=1379g5&utm_campaign=post&utm_medium=web).
+
+#### Copy my code [here](https://github.com/lrmcdonald).
+
+![Lost Moose](/least-github-pages/assets/lostmoose.png)
+
+### Book Reccomendations
 
 - [x+y by Eugenia Cheng](https://www.basicbooks.com/titles/eugenia-cheng/x-y/9781541646513/)
 
