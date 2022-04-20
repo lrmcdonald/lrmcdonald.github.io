@@ -1,6 +1,6 @@
 ## About Me
 
-![Header Photo](/least-github-pages/assets/moose_cronch.jpg)
+![Header Photo](/least-github-pages/assets/moosecronch.jpg)
 
 Heyo!
 
