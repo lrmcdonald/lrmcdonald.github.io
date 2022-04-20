@@ -1,6 +1,6 @@
 ## About Me
 
-![Header Photo](/least-github-pages/assets/moosecronch.jpg)
+![Header Photo](/docs/assets/moosecronch.jpg)
 
 Heyo!
 
@@ -16,7 +16,7 @@ My research focuses on human-wildlife interactions and spatial ecology.
 
 #### Copy my code [here](https://github.com/lrmcdonald).
 
-![Lost Moose](/least-github-pages/assets/lostmoose.png)
+![Lost Moose](/docs/assets/lostmoose.png)
 
 ### Book Reccomendations
 
